@@ -1,0 +1,15 @@
+{
+  "azureFunctions.projectRuntime": "~2",
+  "azureFunctions.projectLanguage": "JavaScript",
+  "azureFunctions.templateFilter": "Verified",
+  "azureFunctions.deploySubpath": ".",
+  "azureFunctions.preDeployTask": "installExtensions",
+  "files.exclude": {
+    "obj": true,
+    "bin": true,
+    "package-lock.json": true,
+    ".gitignore": true,
+    "node_modules": true
+  },
+  "debug.internalConsoleOptions": "neverOpen"
+}
