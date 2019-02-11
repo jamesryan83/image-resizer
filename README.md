@@ -30,7 +30,7 @@ creates 3 output images
 `mycontainer/images/user-picture-1024.jpg`
 
 
-
+NOTE: this is just a demo, the code in the shared folder has been removed
 
 
 ## Installation
@@ -122,4 +122,4 @@ https://docs.microsoft.com/en-us/azure/azure-functions/functions-host-json
 https://docs.microsoft.com/en-us/azure/azure-functions/functions-triggers-bindings#binding-expressions---app-settings
 
 
-NOTE: this is just a demo, the code in the shared folder is private
+
