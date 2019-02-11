@@ -7,7 +7,7 @@
 
 This runs as an Azure function and uses blob storage
 
-It detects files uploaded to the an input blob container and converts them to compressed images, uploads the compressed images to the output container and then deletes the original image
+It detects files uploaded to an input blob container and converts them to compressed images, uploads the compressed images to the output container and then deletes the original image
 
 The upload image filename needs to be in this format
 
